@@ -78,7 +78,7 @@ hi WarningMsg                guifg=#800000 guibg=NONE ctermfg=1 ctermbg=NONE
 hi Identifier                guifg=#af5f5f gui=NONE ctermfg=221 cterm=NONE
 hi Keyword                   guifg=#af5f00 gui=NONE ctermfg=130 cterm=NONE
 hi Number                    guifg=#87af5f ctermfg=107
-hi Statement                 guifg=#af5f00 gui=NONE ctermfg=130 cterm=NONE
+hi Statement                 guifg=#b7690c gui=NONE ctermfg=130 cterm=NONE
 hi String                    guifg=#87af5f ctermfg=107
 hi Title                     guifg=#FFFFFF ctermfg=15
 hi Type                      guifg=#df5f5f gui=NONE ctermfg=167 cterm=NONE
